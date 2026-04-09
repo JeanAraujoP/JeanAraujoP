@@ -32,6 +32,8 @@
   <img src="https://img.shields.io/badge/open%20to%20work-1a2f22?style=for-the-badge&labelColor=1a2f22&color=3a8a54&logoColor=6dcf8a" />
   <img src="https://img.shields.io/badge/SENA%20·%20ADS%202026-1a2e4a?style=for-the-badge&color=1a2e4a&logoColor=7ab3f5" />
   <img src="https://img.shields.io/badge/Colombia%20·%20remoto-1e2a38?style=for-the-badge&color=1e2a38&logoColor=b8c5d6" />
+  <img src="https://img.shields.io/badge/HTML-1a2f22?style=for-the-badge&logo=html5&logoColor=E34F26&color=1a2f22" />
+  <img src="https://img.shields.io/badge/CSS-1a2f22?style=for-the-badge&logo=css3&logoColor=1572B6&color=1a2f22" />
 </p>
 
 ---

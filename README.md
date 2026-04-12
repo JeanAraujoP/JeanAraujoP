@@ -85,12 +85,6 @@ const jean = {
 
 ## 📊 GitHub Stats
 
-<!-- GIF izquierdo y derecho flanqueando las estadísticas -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="80px" align="left"/>
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/rocket.gif" width="80px" align="right"/>
-</p>
-
 <!-- ⚠️ Reemplaza JeanAraujoP con tu username real de GitHub -->
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JeanAraujoP&show_icons=true&theme=dark&bg_color=0d1b2a&title_color=5b8dee&icon_color=5b8dee&text_color=b8c5d6&border_color=1b2d45&include_all_commits=true&count_private=true"/>

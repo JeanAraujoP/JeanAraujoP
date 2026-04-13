@@ -76,8 +76,8 @@ const jean = {
   <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-1a2f22?style=for-the-badge&logo=html&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-1a2f22?style=for-the-badge&logo=css&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/HTML-1a2f22?style=for-the-badge&logo=html&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-1a2f22?style=for-the-badge&logo=css&logoColor=1572B6" />
 </p>
 
 ---

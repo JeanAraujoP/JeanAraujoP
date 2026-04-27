@@ -87,7 +87,7 @@ const jean = {
 
 tecnologo en analisis y desarrollo de software
 
-</p>
+---
 
 🎓Educación
 
@@ -146,6 +146,13 @@ Primaria Basica
     <img src="https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=b8c5d6"/>
   </a>
 </p>
+
+---
+
+💡 Habilidades
+Adaptable
+Enfoque en el aprendizaje continuo
+Resolutivo
 
 ---
 

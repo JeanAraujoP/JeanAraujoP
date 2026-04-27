@@ -56,7 +56,7 @@ Cuando no estoy debuggeando, estoy aprendiendo por qué tenía el bug en primer 
 const jean = {
   ubicacion  : "Colombia 🇨🇴",
   formacion  : "SENA · ADS · 2026",
-  stack      : ["JavaScript", "Node.55js", "React", "Next.js"],
+  stack      : ["JavaScript", "Node.55js", "Next.js"],
   aprendiendo: "TypeScript",
   disponible : true,
   filosofia  : () => "código limpio = respeto"
@@ -87,6 +87,8 @@ const jean = {
 
 tecnologo en analisis y desarrollo de software, html, JavaScript, TypeScript, css, Python, MySql, Boostrap
 
+</p>
+---
 </p>
 
 🎓Educación

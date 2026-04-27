@@ -128,8 +128,8 @@ Primaria Basica
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| [**proyecto-01**](https://github.com/JeanAraujoP/repo1) | Qué problema resuelve y qué aprendiste al construir. | JS · css · NodeJS |
-| [**proyecto-02**](https://github.com/JeanAraujoP/repo3) | Algo construido en el SENA o por tu cuenta. | NestJS · MySQL |
+| [**MechaCore**](https://github.com/JeanAraujoP/repo1) | Tienda virtual orientada a profesionales y estudiantes en el area de la mecatronica. | JS · css · NodeJS, MySQL |
+| [**Guarderia**](https://github.com/JeanAraujoP/repo3) | Sistema de gestion para estudiantes e profesores. | NestJS · MySQL |
 
 ---
 

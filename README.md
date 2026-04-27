@@ -83,16 +83,29 @@ const jean = {
 ---
 
 </p>
-🎓 SENA (2025 - Actualidad)
+🎓 SENA (2026 - Actualidad)
+
 tecnologo en analisis y desarrollo de software
+
 html
+
+JavaScript
+
+TypeScript
+
 css
-php
+
+
 🎓Educación
+
 SENA (2025 - Actualidad)
+
 Aprendiz Analisis y Desarrollo de Software
+
 Institucion Educativa Departamental Los Alpes (2019 - 2023)
+
 Bachiller Unidad Educativa Estadal Doctor Jose Francisco Torrealba (2011 - 2017)
+
 Primaria Basica
 </p>
 

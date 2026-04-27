@@ -85,10 +85,8 @@ const jean = {
 </p>
 🎓 SENA (2026 - Actualidad)
 
-tecnologo en analisis y desarrollo de software, html, JavaScript, TypeScript, css, Python, MySql, Boostrap
+tecnologo en analisis y desarrollo de software
 
-</p>
----
 </p>
 
 🎓Educación

@@ -150,8 +150,10 @@ Primaria Basica
 ---
 
 💡 Habilidades
+
 Adaptable
 Enfoque en el aprendizaje continuo
+
 Resolutivo
 
 ---

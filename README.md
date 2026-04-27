@@ -38,7 +38,7 @@
 
 ---
 
-## `$ whoami`
+## `Sobre Mi`
 
 <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="100px"/>
 

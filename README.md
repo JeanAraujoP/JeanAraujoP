@@ -56,7 +56,7 @@ Cuando no estoy debuggeando, estoy aprendiendo por qué tenía el bug en primer 
 const jean = {
   ubicacion  : "Colombia 🇨🇴",
   formacion  : "SENA · ADS · 2026",
-  stack      : ["JavaScript", "Node.55js", "Next.js"],
+  stack      : ["JavaScript", "Node.js", "Next.js"],
   aprendiendo: "TypeScript",
   disponible : true,
   filosofia  : () => "código limpio = respeto"
